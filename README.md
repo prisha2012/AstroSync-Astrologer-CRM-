@@ -123,6 +123,4 @@ The frontend proxies API calls to `localhost:5000` via `"proxy"` in `package.jso
 
 ---
 
-## 📸 Demo
 
-> See the attached 5–10 minute demo video.
